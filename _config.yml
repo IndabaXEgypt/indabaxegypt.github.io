@@ -43,7 +43,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/virtualsite/", text: "Virtual Conference"}
+ - {permalink: "/virtualsite/", text: "Recorded Talks"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/hackathon/", text: "Hackathon"}
@@ -63,13 +63,13 @@ typeoutTextValues: '"", "AUC", "NileU", "AinshamsU", "CairoU"'
 typeoutFallback: "Egypt"
 heroButtons:
     - {link: "https://bit.ly/33kwdrW", text: "Apply"}
-    - {link: "", text: "Virtual Conference"}
+    - {permalink: "/livestream/", text: "Live Stream"}
 
 # About Block
-aboutTitle: "About DLIndabaX Egypt"
+aboutTitle: "DLIndabaX Egypt 2020: Virtual Conference"
 aboutBlock:
- - {title: "Conference", image: "dlindabax.png", text: "Connecting the Egyptian Machine Learning Community." }
- - {title: "Poster Session", image: "poster.png", text: "Full-day of workshops, hands-on experience in NLP and Computer Vision." }
+ - {title: "Conference", image: "dlindabax.png", text: "Recorded and Live Streamed Talks." }
+ - {title: "Research Proposals", image: "poster.png", text: "Call for Research Proposals to connect professors, researchers and students while providing funds for selected projects." }
  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon solving one of the challenging problems in Egypt! Grab your team and join our hackathon." }
 
 # Statistic Block
