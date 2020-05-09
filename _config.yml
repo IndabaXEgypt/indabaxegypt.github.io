@@ -13,8 +13,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "DL IndabaX 2020"
 email: "indabaxegypt@gmail.com"
 description: "Deep Learning IndabaX Egypt connects ML/DL community in Egypt."
-baseurl: "/dlindabax-website"
-url: "https://msiam.github.io"
+baseurl: "/indabaxegypt2020"
+url: "https://indabaxegypt.github.io"
 permalink: "/blog/:title"
 #googleAnalyticsTrackingId: "UA-43643469-5"
 #googleAnalyticsSiteUrl: "dlindabaxegypt-egypt.github.io"
@@ -44,6 +44,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/apply/", text: "Apply"}
+ - {permalink: "/virtual-site/", text: "Virtual Conference"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/hackathon/", text: "Hackathon"}
@@ -63,6 +64,7 @@ typeoutTextValues: '"", "AUC", "NileU", "AinshamsU", "CairoU"'
 typeoutFallback: "Egypt"
 heroButtons:
     - {link: "https://bit.ly/33kwdrW", text: "Apply"}
+    - {link: "", text: "Virtual Conference"}
 
 # About Block
 aboutTitle: "About DLIndabaX Egypt"
