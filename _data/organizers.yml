@@ -1,0 +1,7 @@
+- 
+  group: "Main organizer"
+  elements: 
+- {name: "AUC", description: "AUC - American University in Cair", link: "https://www.aucegypt.edu/home", imageUrl: "auc.svg"}
+- 
+  group: "Co-organizers"
+  elements: 

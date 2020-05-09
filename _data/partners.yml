@@ -1,0 +1,6 @@
+- 
+  group: ""
+  elements: 
+    - {name: "AUC", description: "AUC - American University in Cair", link: "https://www.aucegypt.edu/home", imageUrl: "auc.svg"}
+    - {name: "DLIndaba", description: "DLIndaba - Strengthening ML African Community", link: "https://deeplearningindaba.com/2020/", imageUrl: "dlindaba_logo.svg"}
+- 
