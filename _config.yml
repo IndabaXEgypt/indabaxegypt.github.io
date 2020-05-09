@@ -63,12 +63,13 @@ typeoutTextValues: '"", "AUC", "NileU", "AinshamsU", "CairoU"'
 typeoutFallback: "Egypt"
 heroButtons:
     - {link: "https://bit.ly/33kwdrW", text: "Apply"}
+    - {link: "https://bit.ly/33kwdrW", text: "Research Proposals"}
     - {permalink: "/livestream/", text: "Live Stream"}
 
 # About Block
-aboutTitle: "DLIndabaX Egypt 2020: Virtual Conference"
+aboutTitle: "DLIndabaX Egypt 2020"
 aboutBlock:
- - {title: "Conference", image: "dlindabax.png", text: "Recorded and Live Streamed Talks." }
+ - {title: "Conference", image: "dlindabax.png", text: "Recorded and Live Streamed Talks. Due to COVID-19 the whole conference will be in the format of recorded talks and live Q&As with the speakers." }
  - {title: "Research Proposals", image: "poster.png", text: "Call for Research Proposals to connect professors, researchers and students while providing funds for selected projects." }
  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon solving one of the challenging problems in Egypt! Grab your team and join our hackathon." }
 
