@@ -46,7 +46,6 @@ navigationLinks:
  - {permalink: "/virtualsite/", text: "Virtual Conference"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/hackathon/", text: "Hackathon"}
  - {permalink: "/codeconduct/", text: "Code of Conduct"}
  - {permalink: "/aboutus/", text: "About Us"}
  - {permalink: "/contactus/", text: "Contact Us"}
