@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "DL IndabaX 2020"
 email: "indabaxegypt@gmail.com"
 description: "Deep Learning IndabaX Egypt connects ML/DL community in Egypt."
-baseurl: "/indabaxegypt2020"
+#baseurl: "/indabaxegypt2020"
 url: "https://IndabaXEgypt.github.io"
 permalink: "/blog/:title"
 #googleAnalyticsTrackingId: "UA-43643469-5"
