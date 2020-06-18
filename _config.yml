@@ -45,39 +45,40 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/virtualsite/", text: "Virtual Conference"}
  - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+ - {permalink: "/jobs/", text: "jobs"}
+# - {permalink: "/hackathon/", text: "Hackathon"}
  - {permalink: "/codeconduct/", text: "Code of Conduct"}
  - {permalink: "/aboutus/", text: "About Us"}
  - {permalink: "/contactus/", text: "Contact Us"}
-bottomNavigationLinks:
- - {link: "https://bit.ly/2UN6wMS", text: "Apply"}
-rightNavigationButtons:
-    - {link: "https://bit.ly/2UN6wMS", text: "Apply"}
+
+#bottomNavigationLinks:
+# - {link: "https://bit.ly/2UN6wMS", text: "Apply"}
+#rightNavigationButtons:
+#    - {link: "https://bit.ly/2UN6wMS", text: "Apply"}
 
 # Hero Block
 backImage: "dlindabax_egypt.jpeg"
 heroTitle: "DLIndabaX Egypt <typeout> 2020"
-eventDate: "26-28 June, 2020"
+#eventDate: "26-28 June, 2020"
 typeoutTextValues: '"", "AUC", "NileU", "AinshamsU", "CairoU"'
 typeoutFallback: "Egypt"
 heroButtons:
-    - {link: "https://bit.ly/33kwdrW", text: "Apply"}
+#    - {link: "https://bit.ly/33kwdrW", text: "Apply"}
     - {link: "", text: "Virtual Conference"}
 
 # About Block
 aboutTitle: "About DLIndabaX Egypt"
 aboutBlock:
- - {title: "Conference", image: "dlindabax.png", text: "Connecting the Egyptian Machine Learning Community." }
+ - {title: "Webinars", image: "dlindabax.png", text: "Connecting the Egyptian Machine Learning Community." }
  - {title: "Poster Session", image: "poster.png", text: "Full-day of workshops, hands-on experience in NLP and Computer Vision." }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon solving one of the challenging problems in Egypt! Grab your team and join our hackathon." }
+# - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon solving one of the challenging problems in Egypt! Grab your team and join our hackathon." }
 
 # Statistic Block
 statisticBlockImage: "dlindabax_all.jpg"
 statisticBlock:
  - {count: "200", specialCharacter: "+", info: "attendees", detail: "from all Egypt"}
  - {count: "24", specialCharacter: "+", info: "hours", detail: "of Talks and Workshops on Deep Learning Related Topics."}
- - {count: "10", specialCharacter: "+", info: "speakers", detail: "from Academia and Industry"}
+ - {count: "10", specialCharacter: "+", info: "jobs", detail: "from Academia and Industry"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
