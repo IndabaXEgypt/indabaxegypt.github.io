@@ -64,14 +64,15 @@ typeoutTextValues: '"", "AUC", "NileU", "AinshamsU", "CairoU"'
 typeoutFallback: "Egypt"
 heroButtons:
 #    - {link: "https://bit.ly/33kwdrW", text: "Apply"}
-    - {link: "", text: "Virtual Conference"}
-
+    - {link: "https://indabaxegypt.github.io/indabaxegypt2020/virtualsite/", text: "Virtual Conference"}
+    - {link: "https://deeplearningindaba.com/2020/ai4d-indabax-innovation-call-for-proposals/", text: "Call for Proposals"}
 # About Block
 aboutTitle: "About DLIndabaX Egypt"
 aboutBlock:
  - {title: "Webinars", image: "dlindabax.png", text: "Connecting the Egyptian Machine Learning Community." }
- - {title: "Poster Session", image: "poster.png", text: "Full-day of workshops, hands-on experience in NLP and Computer Vision." }
+ - {title: "IndabaX-AI4D grant", image: "poster.png", text: "Submit proposals to receive funding up to USD 8,000 for small research projects with a development focus, which will be completed by the end of February 2021. Submission deadline: 6 July 2020." }
 # - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon solving one of the challenging problems in Egypt! Grab your team and join our hackathon." }
+ #-
 
 # Statistic Block
 statisticBlockImage: "dlindabax_all.jpg"
