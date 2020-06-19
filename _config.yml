@@ -70,7 +70,7 @@ heroButtons:
 aboutTitle: "About DLIndabaX Egypt"
 aboutBlock:
  - {title: "Webinars", image: "dlindabax.png", text: "Connecting the Egyptian Machine Learning Community." }
- - {title: "IndabaX-AI4D grant", image: "poster.png", text: "Submit proposals to receive funding up to USD 8,000 for small research projects with a development focus, which will be completed by the end of February 2021. Submission deadline: 6 July 2020." }
+ - {title: "IndabaX-AI4D Grant", image: "poster.png", text: "Submit proposals to receive funding up to USD 8,000 for small research projects with a development focus, which will be completed by the end of February 2021. Submission deadline: 6 July 2020." }
 # - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon solving one of the challenging problems in Egypt! Grab your team and join our hackathon." }
  #-
 
