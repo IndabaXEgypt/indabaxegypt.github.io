@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/indabaxegypt2020/sitemap.xml
+Sitemap: https://indabaxegypt.github.io/indabaxegypt2020/sitemap.xml
