@@ -2,13 +2,14 @@
     <div class="content-wrapper">
 
     {% for talk in site.data.talks %}
+    <h1 class="card-title"> <p>{{talk.title}}</p> </h1>
+    <h6 class="card-subtitle mb-2 text-muted">
+      {{talk.speaker}}
+    </h6>
       <div class="container">
         <div class="card" >
           <div class="card-body">
-            <h1 class="card-title"> <p>{{talk.title}}</p> </h1>
-            <h6 class="card-subtitle mb-2 text-muted">
-              {{talk.speaker}}
-            </h6>
+
 
               <iframe width="700" height="385" src="https://www.youtube.com/embed/{{talk.id}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <p></p>
