@@ -1,40 +1,24 @@
-<!-- Begin Schedule Section -->
 <section id="schedule" class="schedule">
     <div class="content-wrapper">
 
-
-    <script src='https://slideslive.com/embed_presentation.js'></script>
-
-    <!-- From _data/papers.cvs -->
     {% for talk in site.data.talks %}
-    <div class="container">
-      <div class="card" >
-        <div class="card-body">
-          <h3 class="card-title">{{talk.title}}</h3>
-          <h6 class="card-subtitle mb-2 text-muted">
-            {{talk.speaker}}
-          </h6>
+      <div class="container">
+        <div class="card" >
+          <div class="card-body">
+            <h1 class="card-title"> <p>{{talk.title}}</p> </h1>
+            <h6 class="card-subtitle mb-2 text-muted">
+              {{talk.speaker}}
+            </h6>
 
-          <center>
-                <!-- <a class="card-link" {{talk.pdf}}">Paper</a> -->
-          </center>
-          <p></p>
+              <iframe width="700" height="385" src="https://www.youtube.com/embed/{{talk.id}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <p></p>
+          </div>
         </div>
+        <!-- <br> -->
       </div>
-    </div>
 
 
-<!-- SlidesLive -->
-<div id="presentation-embed-{{talk.slide_id}}" class="container container-sm"></div>
-<script>
-  embed = new SlidesLiveEmbed('presentation-embed-{{talk.slide_id}}', {
-        presentationId: '{{talk.slide_id}}',
-        autoPlay: false, // change to true to autoplay the embedded presentation
-        verticalEnabled: true
-    });
-</script>
-{% endfor %}                                                                    
+    {% endfor %}
 
-     </div>
-</section>
-<!-- End Schedule Section -->
+      </div>
+  </section>
